@@ -109,7 +109,21 @@ http://127.0.0.1:8000/docs
 
 Submit listing details in JSON format to receive the estimated nightly price in USD.
 
-##  Future Improvements
+## Project Screenshots
+
+### Exploratory Data Analysis
+![EDA](Screenshot/EDA.png)
+
+### Actual vs Predicted Prices
+![Actual vs Predicted](Screenshot/actual-vs-predicted.png)
+
+### FastAPI Swagger UI
+![API Documentation](Screenshot/api-docs.png)
+
+### Prediction Result
+![Prediction Result](Screenshot/prediction.png)
+
+## Future Improvements
 
 - Integrate the prediction API with a full-stack Airbnb clone.
 - Add INR currency conversion.
