@@ -86,9 +86,12 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-**6. Add the trained model file**
+**6. Download the trained model**
 
-Place `airbnb_price_pipeline.pkl` in the project root directory. This file is not included in the GitHub repository because it exceeds GitHub's standard file size limit.
+Download `airbnb_price_pipeline.pkl` from the
+[GitHub Releases](https://github.com/Ayushi-Bharti/NYC-Airbnb-Price-Prediction/releases/tag/v1.0.0).
+
+Place the downloaded file in the project root directory.
 
 **7. Run the API**
 
